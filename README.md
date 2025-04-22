@@ -28,7 +28,7 @@ This space is where I log my study of security, the protocols beneath the noise,
 ---
 
 ### 🗝️ Ethos
-> *The signal is buried in noise. The map is not the territory. The exploit is often between the lines.*
+*I walk paths not meant to be followed. Knowledge is ritual. Truth is earned. I owe allegiance only to curiosity.*
 
 - I write to understand
 - I publish to connect
