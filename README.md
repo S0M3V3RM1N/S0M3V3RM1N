@@ -18,7 +18,7 @@ This space is where I log my study of security, the protocols beneath the noise,
 ### ⚒️ Toolset & Familiar Spirits
 - **Operating Systems**: Linux (Debian/Ubuntu), Windows (Client/Server), macOS (Daily Driver)
 - **Tools of the Trade**: Nmap, Wireshark, Burp Suite (Novice), Sherlock, 
-- **Languages**: Bash, Python (Practicing), C (Practicing)
+- **Languages**: Bash, Python (Novice), C (Novice)
 - **Realm**: HackTheBox / Local Lab Environment / Production
 
 ---
