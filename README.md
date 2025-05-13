@@ -7,10 +7,11 @@ This space is where I log my study of security, the protocols beneath the noise,
 ---
 
 ### 🧭 Areas of Curiosity
-- 🔍 Systems, secrets, and how things fall apart
+- 🔍 Systems, secrets, and how things fall apart (and how to prevent)
 - 🧠 Pattern recognition, protocol behavior, entropy in motion
 - 🧰 CTFs and practical security theory (HackTheBox: `S0M3V3RM1N`)
-- ✍️ Public write-ups and private obsessions
+- 📻 Radios and understanding how data flows through the ether
+- 🔵 Blue team operations and threat analysis
 
 ---
 
