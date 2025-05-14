@@ -17,19 +17,19 @@ This space is where I log my study of security, the protocols beneath the noise,
 
 ### ⚒️ Toolset & Familiar Spirits
 - **Operating Systems**: Linux (Debian/Ubuntu), Windows (Client/Server), macOS (Daily Driver)
-- **Tools of the Trade**: Nmap, Wireshark, Burp Suite (Novice), Sherlock, 
-- **Languages**: Bash, Python (Novice), C (Novice)
-- **Realm**: HackTheBox / Local Lab Environment / Production
+- **Tools of the Trade**: Nmap, Wireshark, EDR, VirusTotal, Shodan, Falcon Sandbox
+- **Languages**: Python (Novice), C (Novice), Go (Novice)
+- **Realm**: Local Lab Environment / Production
 
 ---
 
 ### 📖 Recent Writings
-> Full archive at (in progress) [s0m3v3rm1n.github.io](https://s0m3v3rm1n.github.io)
+> Personal Blog [s0m3v3rm1n.github.io](https://s0m3v3rm1n.github.io)
 
 ---
 
 ### 🗝️ Ethos
-*I walk paths not meant to be followed. Knowledge is ritual. Truth is earned. I owe allegiance only to curiosity.*
+*Knowledge is ritual. Truth is earned. I owe allegiance only to curiosity.*
 
 - I write to understand
 - I publish to connect
