@@ -23,11 +23,6 @@ This space is where I log my study of security, the protocols beneath the noise,
 
 ---
 
-### 📖 Recent Writings
-> Personal Blog [s0m3v3rm1n.github.io](https://s0m3v3rm1n.github.io)
-
----
-
 ### 🗝️ Ethos
 *Knowledge is ritual. Truth is earned. I owe allegiance only to curiosity.*
 
@@ -38,7 +33,7 @@ This space is where I log my study of security, the protocols beneath the noise,
 ---
 
 ### 🧷 Contact / Signal
-- 🌐 Blog & Logs: 
+- 🌐 Blog: [https://v3rm1nlog.bearblog.dev/](https://v3rm1nlog.bearblog.dev/)
 - 🧠 HackTheBox: `S0M3V3RM1N`
 - 🔐 PGP Key: coming soon
 
