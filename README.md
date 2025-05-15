@@ -18,7 +18,7 @@ This space is where I log my study of security, the protocols beneath the noise,
 ### ⚒️ Toolset & Familiar Spirits
 - **Operating Systems**: Linux (Debian/Ubuntu), Windows (Client/Server), macOS (Daily Driver)
 - **Tools of the Trade**: Nmap, Wireshark, EDR, VirusTotal, Shodan, Falcon Sandbox
-- **Languages**: Python (Novice), C (Novice), Go (Novice)
+- **Languages**: Python (Novice), Go (Novice)
 - **Realm**: Local Lab Environment / Production
 
 ---
