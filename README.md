@@ -38,7 +38,7 @@ This space is where I log my study of security, the protocols beneath the noise,
 ---
 
 ### 🧷 Contact / Signal
-- 🌐 Blog & Logs: [s0m3v3rm1n.github.io](https://s0m3v3rm1n.github.io)
+- 🌐 Blog & Logs: 
 - 🧠 HackTheBox: `S0M3V3RM1N`
 - 🔐 PGP Key: coming soon
 
