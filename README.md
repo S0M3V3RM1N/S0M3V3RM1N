@@ -34,6 +34,7 @@ This space is where I log my study of security, the protocols beneath the noise,
 
 ### 🧷 Contact / Signal
 - 🌐 Blog: [https://v3rm1nlog.bearblog.dev/](https://v3rm1nlog.bearblog.dev/)
+- 📧 S0M3V3RM1N@proton.me
 - 🧠 HackTheBox: `S0M3V3RM1N`
 - 🔐 PGP Key: coming soon
 
