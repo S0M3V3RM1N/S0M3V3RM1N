@@ -17,8 +17,8 @@ This space is where I log my study of security, the protocols beneath the noise,
 
 ### ⚒️ Toolset & Familiar Spirits
 - **Operating Systems**: Linux (Debian/Ubuntu), Windows (Client/Server), macOS (Daily Driver)
-- **Tools of the Trade**: Nmap, Wireshark, EDR, VirusTotal, Shodan, Falcon Sandbox
-- **Languages**: Python (Novice), Go (Novice)
+- **Tools of the Trade**: Nmap, Wireshark, Shodan, Online Sandboxing Tools, Virtualization, NDR/EDR, Splunk (training)
+- **Languages**: Python (Novice), Go (Novice) 
 - **Realm**: Local Lab Environment / Production
 
 ---
@@ -34,7 +34,7 @@ This space is where I log my study of security, the protocols beneath the noise,
 
 ### 🧷 Contact / Signal
 - 🌐 Blog: [https://v3rm1nlog.bearblog.dev/](https://v3rm1nlog.bearblog.dev/)
-- 📧 S0M3V3RM1N@proton.me
+- 📧 Email: S0M3V3RM1N@proton.me
 - 🧠 HackTheBox: `S0M3V3RM1N`
 - 🔐 PGP Key: coming soon
 
