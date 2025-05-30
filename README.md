@@ -1,14 +1,12 @@
 # 🕸️ S0M3V3RM1N
- 
-> Scraping beneath the surface, mapping the unseen, speaking in packets.
 
-This space is where I log my study of security, the protocols beneath the noise, and the places most overlook.
+This space is where I log my study of cybersecurity. I'm focused on landing my first dedicated role. 
 
 ---
 
 ### 🧭 Areas of Curiosity
-- 🔍 Systems, secrets, and how things fall apart (and how to prevent)
-- 🧠 Pattern recognition, protocol behavior, entropy in motion
+- 🔍 Systems and understanding what's underneath the hood
+- 🧠 Pattern recognition, protocol behavior, offsec
 - 🧰 CTFs and practical security theory (HackTheBox: `S0M3V3RM1N`)
 - 📻 Radios and understanding how data flows through the ether
 - 🔵 Blue team operations and threat analysis
@@ -16,19 +14,15 @@ This space is where I log my study of security, the protocols beneath the noise,
 ---
 
 ### ⚒️ Toolset & Familiar Spirits
-- **Operating Systems**: Linux (Debian/Ubuntu), Windows (Client/Server), macOS (Daily Driver)
-- **Tools of the Trade**: Nmap, Wireshark, Shodan, Online Sandboxing Tools, Virtualization, NDR/EDR, Splunk (training)
-- **Languages**: Python (Novice), Go (Novice) 
-- **Realm**: Local Lab Environment / Production
+- **Operating Systems**:  MacOS, Linux (Debian/Ubuntu), Windows (Client/Server)
+- **Tools of the Trade**: Nmap, Wireshark, Shodan, NDR/EDR
+- **Languages**: Python (Novice), Go (Novice)
+- **Realm**: Cloud / Production 
 
 ---
 
 ### 🗝️ Ethos
 *Knowledge is ritual. Truth is earned. I owe allegiance only to curiosity.*
-
-- I write to understand
-- I publish to connect
-- I chase the overlooked
 
 ---
 
