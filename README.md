@@ -7,17 +7,17 @@ This space is where I log my study of cybersecurity. I'm focused on landing my f
 ### 🧭 Areas of Curiosity
 - 🔍 Systems and understanding what's underneath the hood
 - 🧠 Pattern recognition, protocol behavior, offsec
-- 🧰 CTFs and practical security theory (HackTheBox: `S0M3V3RM1N`)
 - 📻 Radios and understanding how data flows through the ether
-- 🔵 Blue team operations and threat analysis
+- 🌐 Network infrastructure and packet analysis
+- 🔵 Blue team operations
 
 ---
 
 ### ⚒️ Toolset & Familiar Spirits
 - **Operating Systems**:  MacOS, Linux (Debian/Ubuntu), Windows (Client/Server)
-- **Tools of the Trade**: Nmap, Wireshark, Shodan, NDR/EDR
+- **Tools of the Trade**: Nmap, Wireshark, Wi-Fi Analysis Tools, SystemInformer, LLM leverage
 - **Languages**: Python (Novice), Go (Novice)
-- **Realm**: Cloud / Production 
+- **Realm**: Cloud / Production / Homelab
 
 ---
 
