@@ -16,7 +16,7 @@ This space is where I log my study of cybersecurity. I'm focused on landing my f
 ### ⚒️ Toolset & Familiar Spirits
 - **Operating Systems**:  MacOS, Linux (Debian/Ubuntu), Windows (Client/Server)
 - **Tools of the Trade**: Nmap, Wireshark, Wi-Fi Analysis Tools, SystemInformer, LLM leverage
-- **Languages**: Python (Novice), Go (Novice)
+- **Languages**: Python
 - **Realm**: Cloud / Production / Homelab
 
 ---
