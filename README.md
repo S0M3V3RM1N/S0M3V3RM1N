@@ -8,8 +8,8 @@ Security and Network Specialist dedicated to the turmoils of securing informatio
 
 ### Areas of Curiosity
 - Systems and understanding what's underneath the hood
-- Pattern recognition, protocol behavior, and a some offsec
-- Radios and understanding how data flows through the ether
+- Pattern recognition, protocol behavior, and offensive secuirty
+- Generative AI and the impact to information security
 - Network infrastructure
 - Blue team operations
 
