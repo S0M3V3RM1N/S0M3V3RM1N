@@ -1,6 +1,6 @@
 # 🕸️ S0M3V3RM1N
 
-Security and Network Specialist dedicated to the turmoils of today. I'm currently in pursuit of a bachelor's in Cybersecurity while working as a full time Security & Network Specialist. Contact me for collaboration, questions, or to have a chat. 
+Security and Network Specialist dedicated to the turmoils of securing information against threat actors. I'm currently in pursuit of a bachelor's in Cybersecurity while working as a full time Security & Network Specialist. Contact me for collaboration, questions, or to have a chat. 
 
 *"A jack of all trades is a master of none, but oftentimes better than a master of one."*
 
@@ -18,7 +18,7 @@ Security and Network Specialist dedicated to the turmoils of today. I'm currentl
 ### Toolset & Familiar Spirits
 - **Operating Systems**:  MacOS, Linux (Debian/Ubuntu), Windows (Client/Server)
 - **Tools of the Trade**: Nmap, Wireshark, Wi-Fi Analysis Tools, SystemInformer, LLM leverage
-- **Languages**: Python, Bash
+- **Languages**: Python, Bash, Java
 - **Realm**: Cloud / Production / Homelab
 
 ---
