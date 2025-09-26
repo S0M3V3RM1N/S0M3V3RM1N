@@ -16,8 +16,8 @@ Security and Network Specialist dedicated to the turmoils of securing informatio
 ---
 
 ### Toolset & Familiar Spirits
-- **Operating Systems**:  MacOS, Linux (Debian/Ubuntu), Windows (Client/Server)
-- **Tools of the Trade**: Nmap, Wireshark, Wi-Fi Analysis Tools, SystemInformer, LLM leverage
+- **Operating Systems**:  MacOS, Linux (Client/Server), Windows (Client/Server)
+- **Tools of the Trade**: Nmap, Wireshark, SystemInformer, Solarwinds Network Tools, CLI, LLM leverage
 - **Languages**: Python, Bash, Java
 - **Realm**: Cloud / Production / Homelab
 
