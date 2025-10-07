@@ -1,6 +1,6 @@
 # 🕸️ S0M3V3RM1N
 
-Security and Network Specialist dedicated to the turmoils of securing information against threat actors. I'm currently in pursuit of a bachelor's in Cybersecurity while working as a full time Security & Network Specialist. Contact me for collaboration, questions, or to have a chat. 
+InfoSec and Infra. I'm currently in pursuit of a bachelor's in Cybersecurity while working as a full time Security & Network Specialist. Contact me for collaboration, questions, or to have a chat. 
 
 *"A jack of all trades is a master of none, but oftentimes better than a master of one."*
 
