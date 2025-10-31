@@ -15,14 +15,6 @@ InfoSec and Infra. I'm currently in pursuit of a bachelor's in Cybersecurity whi
 
 ---
 
-### Toolset & Familiar Spirits
-- **Operating Systems**:  MacOS, Linux (Client/Server), Windows (Client/Server)
-- **Tools of the Trade**: Nmap, Wireshark, SystemInformer, Solarwinds Network Tools, CLI, LLM leverage
-- **Languages**: Python, Bash, Java
-- **Realm**: Cloud / Production / Homelab
-
----
-
 ### Ethos
 *Knowledge is ritual. Truth is earned. I owe allegiance only to curiosity.*
 
