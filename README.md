@@ -1,6 +1,6 @@
-# 🕸️ S0M3V3RM1N
+# S0M3V3RM1N
 
-InfoSec and Infra. I'm currently in pursuit of a bachelor's in Cybersecurity while working as a full time Security & Network Specialist. Contact me for collaboration, questions, or to have a chat. 
+Cybersecurity and Infra.
 
 *"A jack of all trades is a master of none, but oftentimes better than a master of one."*
 
@@ -9,8 +9,8 @@ InfoSec and Infra. I'm currently in pursuit of a bachelor's in Cybersecurity whi
 ### Areas of Curiosity
 - Systems and understanding what's underneath the hood
 - Pattern recognition, protocol behavior, and offensive secuirty
-- Generative AI and the impact to information security
-- Network infrastructure
+- Generative AI and the impact to cybersecurity
+- Securing network infrastructure
 - Blue team operations
 
 ---
@@ -21,9 +21,7 @@ InfoSec and Infra. I'm currently in pursuit of a bachelor's in Cybersecurity whi
 ---
 
 ### Contact / Signal
-- Blog: [https://v3rm1nlog.bearblog.dev/](https://v3rm1nlog.bearblog.dev/)
 - Email: S0M3V3RM1N@proton.me
-- Twitter: S0M3V3RM1N
 - HackTheBox: `S0M3V3RM1N`
 - PGP Key: coming soon
 
